@@ -31,11 +31,7 @@ The purpose of this lab is to understand how templates can be used to deploy res
 
 ## [Deployment Template](/vm_template.json)
 
----
-
 ## Screenshots
-
----
 
 ![Deployment Complete for custom deployment](/Screenshots/Deployment%20Complete.png "Deployment complete for custom deployment")
 
@@ -109,6 +105,8 @@ The purpose of this lab is to understand how templates can be used to deploy res
 ![Cleanup of resource group](/Screenshots/Cleanup.png "Cleanup of resource group")
 
 *Figure 7: Cleanup of resource group*
+
+---
 
 ## Reflections
 
