@@ -29,6 +29,10 @@ The purpose of this lab is to understand how templates can be used to deploy res
 
 ---
 
+## [Deployment Template](/vm_template.json)
+
+---
+
 ## Screenshots
 
 ---
@@ -101,6 +105,10 @@ The purpose of this lab is to understand how templates can be used to deploy res
 *Figure 6: Load balancing options page*
 
 ---
+
+![Cleanup of resource group](/Screenshots/Cleanup.png "Cleanup of resource group")
+
+*Figure 7: Cleanup of resource group*
 
 ## Reflections
 
