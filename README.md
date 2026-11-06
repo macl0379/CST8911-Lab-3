@@ -34,56 +34,70 @@ The purpose of this lab is to understand how templates can be used to deploy res
 ---
 
 ![Deployment Complete for custom deployment](/Screenshots/Deployment%20Complete.png "Deployment complete for custom deployment")
+
 *Figure 1: Deployment complete for custom deployment, including VNet, VM and network interface*
 
 ---
 
 ![VM Overview Screen displaying information including: Location, Tags and Networking](/Screenshots/Overview.png "VM Overview Screen displaying information including: Location, Tags and Networking")
+
 *Figure 2: VM Overview Screen displaying information including: Location, Tags and Networking*
 
 ![Location](/Screenshots/Location.png "Location")
+
 *Figure 2.1: Location*
 
 ![Tags](/Screenshots/Tags.png "Tags")
+
 *Figure 2.2: Tags*
 
 ![Network settings](/Screenshots/Network%20Settings%20Close.png "Network Settings")
+
 *Figure 2.3: Network settings*
 
 ---
 
 ![Lower portion of VM Overview displaying information including: Availability, Security, Size, Source Image and Disk settings](/Screenshots/Overview%20Lower.png "Lower portion of VM Overview displaying information including: Availability, Security, Size, Source Image and Disk settings")
+
 *Figure 3: Lower portion of VM Overview displaying information including: Availability, Security, Size, Source Image and Disk settings*
 
-!!!!!!!!!
+
 ![Availability settings](/Screenshots/Availability%20close.png "Availability settings")
+
 *Figure 3.1: Availability settings*
 
 ![Security settings](/Screenshots/Security.png "Security settings")
+
 *Figure 3.2: Availability settings*
 
 ![Size settings](/Screenshots/Size.png "Size settings")
+
 *Figure 3.3: Size settings*
 
 ![Source Image settings](/Screenshots/Image.png "Source Image settings")
+
 *Figure 3.4: Source Image settings*
 
 ![Disk settings](/Screenshots/Disk.png "Disk settings")
+
 *Figure 3.5: Disk settings*
 
 ---
 
 ![Network settings page](/Screenshots/Network%20Settings.png "Network settings page")
+
 *Figure 4: Network settings page*
 
 ---
 
 ![VNet Overview page](/Screenshots/Vnet.png "VNet Overview page")
+
 *Figure 5: VNet Overview page*
 
 ---
 
 ![Load balancing options page](/Screenshots/Load%20balancing.png "Load balancing options page")
+
 *Figure 6: Load balancing options page*
 
 ---
