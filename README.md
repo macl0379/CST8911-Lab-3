@@ -34,12 +34,12 @@ The purpose of this lab is to understand how templates can be used to deploy res
 ---
 
 ![Deployment Complete for custom deployment](/Screenshots/Deployment%20Complete.png "Deployment complete for custom deployment")
-*Figure 1: Deployment complete for custom deployment, including VNet, VM and associated storage account*
+*Figure 1: Deployment complete for custom deployment, including VNet, VM and network interface*
 
 ---
 
-![VM Overview Screen displaying information including: Location, Tags and Networking](/Screenshots/Overview.png "VM Overview Screen displaying information including: Location, Tags")
-*Figure 2: VM Overview Screen displaying information including: Location, Tags*
+![VM Overview Screen displaying information including: Location, Tags and Networking](/Screenshots/Overview.png "VM Overview Screen displaying information including: Location, Tags and Networking")
+*Figure 2: VM Overview Screen displaying information including: Location, Tags and Networking*
 
 ![Location](/Screenshots/Location.png "Location")
 *Figure 2.1: Location*
