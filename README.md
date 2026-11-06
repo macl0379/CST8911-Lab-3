@@ -9,8 +9,6 @@
 
 ## Introduction
 
----
-
 The purpose of this lab is to understand how templates can be used to deploy resources. This is demonstarted by creating a vm through a template to deploy a machine that follows these rules:
 
 - Region: east us *east us was unavailable so sweden central was used*
