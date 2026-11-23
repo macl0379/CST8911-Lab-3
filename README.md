@@ -1,4 +1,4 @@
-# CST8911-Lab-3
+# CST8911 Lab 3
 
 **Student Name**: Collin MacLeod
 **Student ID**: macl0379
