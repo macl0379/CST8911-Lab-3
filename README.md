@@ -1,8 +1,8 @@
-# CST8913-Lab-3
+# CST8911-Lab-3
 
 **Student Name**: Collin MacLeod
 **Student ID**: macl0379
-**Course**: CST8915 Full-stack Cloud-native Development
+**Course**: CST8911 Intro to Cloud Computing
 **Semester**: Fall 2026
 
 ---
